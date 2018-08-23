@@ -1,2 +1,2 @@
 # ProyectoConjunto_DChavez_IMartinez
-Tarea #1 de Simulación de Procesos Financieros
+Tarea #1. Simulación de Procesos Financieros
